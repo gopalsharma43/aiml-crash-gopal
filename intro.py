@@ -17,4 +17,4 @@ student = {
 print(f"My name is {student['name'].title()}.")
 print(f"I am {student['age']} years old.")
 print(f"I live in {student['city'].upper()}.")
-print(f"My favorite subject is {student['favorite_subject']} and I want to become an {student['target_role']}.")
+print(f"My favorite subject is {student['favorite_subject']} and I want to become a {student['target_role']}.")
