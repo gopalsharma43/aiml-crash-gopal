@@ -97,6 +97,37 @@ Mini inventory management system using OOP and CSV file handling.
 
 ---
 
+# Day 7 Tasks
+
+### 1. profile_card.py
+Creates a student profile card using dictionaries, type hints, and f-strings.
+
+### 2. json_report.py
+Loads data from a JSON file and generates a formatted learner report.
+
+### 3. course_tracker.py
+Tracks course completion progress using a custom class and methods.
+
+### 4. config_updater.py
+Reads and updates application settings stored in a JSON file.
+
+### 5. data_summary.py
+Performs basic data analysis using Pandas and calculates averages.
+
+### 6. numpy_basics.py
+Demonstrates NumPy array creation and mathematical operations.
+
+### 7. student_scores.py
+Analyzes student scores using NumPy functions.
+
+### 8. employee_data.py
+Uses Pandas to analyze employee salary information.
+
+### 9. student_dashboard.py
+Builds a mini student dashboard using Pandas DataFrames.
+
+---
+
 ## Generated Files
 
 The following files are created automatically during program execution:
