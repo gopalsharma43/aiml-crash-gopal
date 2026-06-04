@@ -128,6 +128,25 @@ Builds a mini student dashboard using Pandas DataFrames.
 
 ---
 
+# Day 10 - Pandas Advanced + Visualization + SQL
+
+### sales_analysis.ipynb
+
+This notebook includes:
+
+- Dataset audit and data quality checks
+- Data cleaning and preprocessing
+- GroupBy analysis
+- Table merging and KPI calculations
+- Pivot tables
+- Data visualizations using Matplotlib and Seaborn
+- SQLite database creation
+- 15 SQL queries
+- Pandas vs SQL comparison
+- Business insights and conclusions
+
+---
+
 ## Generated Files
 
 The following files are created automatically during program execution:
